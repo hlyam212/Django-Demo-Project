@@ -1,12 +1,14 @@
 # Django-Demo-Project
 
-#Create Project
+## Simple Work Steps
+
+### Create Project
 django-admin startproject django_REST
 
-#Create App
+### Create App
 python manage.py startapp customer
 
-#Create Table
+# Create Table
 python manage.py makemigrations
 python manage.py migrate
 
