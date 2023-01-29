@@ -13,7 +13,7 @@ python manage.py startapp customer
 3.2 Create a dbtest in postgresq
 python manage.py makemigrations
 python manage.py migrate
-[Note]Reset an App Database Tables in Django : python manage.py migrate MyApp zero
+[Note]Reset an App Database Tables in Django : python manage.py migrate customer zero
 
 ### 4.Setting DB Connection
 django_REST\django_REST\settings.py : DATABASES
