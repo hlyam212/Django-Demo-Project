@@ -8,7 +8,7 @@ django-admin startproject django_REST
 ### 2.Create App
 python manage.py startapp customer
 
-### 3.Define Modle & Create Table
+### 3.Define Model & Create Table
 3.1 django_REST\customer\models.py
 3.2 Create a dbtest in postgresq
 python manage.py makemigrations
